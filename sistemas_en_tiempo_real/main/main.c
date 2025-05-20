@@ -2,5 +2,5 @@
 
 void app_main(void)
 {
-    printf("Hola\n");
+    printf("Buenas gente \n");
 }
